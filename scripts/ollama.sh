@@ -74,4 +74,6 @@ with open(readmeFile, 'w', encoding='utf-8') as fileHandle:
 PY
 
 git add "${readmeFile}"
+git config --local user.name "NeaByteLab"
+git config --local user.email "209737579+NeaByteLab@users.noreply.github.com"
 git diff --cached --quiet || git commit -m "chore(bot): update cloud model catalog at ${updateTime} :robot:"
