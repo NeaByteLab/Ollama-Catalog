@@ -45,7 +45,7 @@ for modelData in modelList:
   capText = ', '.join(capList) if capList else '(none)'
   modelLink = f'https://ollama.com/library/{modelName}'
   tableRows.append((modelName, sizeText, modifiedAt, capText, modelLink))
-tableRows.sort(key=lambda rowItem: rowItem[0].lower())
+tableRows.sort(key=lambda rowItem: (rowItem[2], rowItem[0].lower()), reverse=True)
 
 readmeLines = [
   '# Ollama Catalog',
