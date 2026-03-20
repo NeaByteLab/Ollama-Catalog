@@ -41,8 +41,14 @@ for modelData in modelList:
   except Exception as errorInfo:
     capList = []
     errorList.append((modelName, str(errorInfo)))
-  sizeText = f'{sizeBytes / (1024 ** 3):.1f} GB' if sizeBytes else '-'
-  capText = ', '.join(capList) if capList else '(none)'
+  if sizeBytes:
+    sizeText = f'{sizeBytes / (1024 ** 3):.1f} GB'
+  else:
+    sizeText = '-'
+  if capList:
+    capText = ', '.join(capList)
+  else:
+    capText = '(none)'
   modelLink = f'https://ollama.com/library/{modelName}'
   tableRows.append((modelName, sizeText, modifiedAt, capText, modelLink))
 tableRows.sort(key=lambda rowItem: (rowItem[2], rowItem[0].lower()), reverse=True)
@@ -52,7 +58,7 @@ readmeLines = [
   '',
   'Fetch cloud models, inspect capabilities, publish clickable table automatically.',
   '',
-  '## Available Cloud Models',
+  f'## Available Cloud Models ({len(modelList)})',
   '',
   '| model name | size | modified at | capability tags | official link |',
   '| --- | --- | --- | --- | --- |'
@@ -76,4 +82,8 @@ PY
 git add "${readmeFile}"
 git config --local user.name "NeaByteLab"
 git config --local user.email "209737579+NeaByteLab@users.noreply.github.com"
-git diff --cached --quiet || git commit -m "chore(bot): update cloud model catalog at ${updateTime} 🤖"
+if git diff --cached --quiet; then
+  echo "No README changes to commit"
+else
+  git commit -m "chore(bot): update cloud model catalog at ${updateTime} 🤖"
+fi
