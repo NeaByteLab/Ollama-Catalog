@@ -2,7 +2,7 @@
 
 Fetch cloud models, inspect capabilities, publish clickable table automatically.
 
-## Available Cloud Models
+## Available Cloud Models (34)
 
 | model name | size | modified at | capability tags | official link |
 | --- | --- | --- | --- | --- |
