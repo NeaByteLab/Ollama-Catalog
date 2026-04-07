@@ -11,7 +11,7 @@ Fetch cloud models, inspect capabilities, publish clickable table automatically.
 | `nemotron-3-super` | `214.7 GB` | `2026-03-11T00:00:00Z` | `completion, thinking, tools` | [Open](https://ollama.com/library/nemotron-3-super) |
 | `qwen3.5:397b` | `369.7 GB` | `2026-02-16T00:00:00Z` | `completion, thinking, tools, vision` | [Open](https://ollama.com/library/qwen3.5:397b) |
 | `minimax-m2.5` | `214.2 GB` | `2026-02-12T00:00:00Z` | `completion, tools, thinking` | [Open](https://ollama.com/library/minimax-m2.5) |
-| `glm-5` | `704.2 GB` | `2026-02-11T00:00:00Z` | `(none)` | [Open](https://ollama.com/library/glm-5) |
+| `glm-5` | `704.2 GB` | `2026-02-11T00:00:00Z` | `thinking, completion, tools` | [Open](https://ollama.com/library/glm-5) |
 | `kimi-k2.5` | `1041.7 GB` | `2026-01-26T00:00:00Z` | `vision, thinking, completion, tools` | [Open](https://ollama.com/library/kimi-k2.5) |
 | `glm-4.7` | `648.3 GB` | `2025-12-22T00:00:00Z` | `thinking, completion, tools` | [Open](https://ollama.com/library/glm-4.7) |
 | `minimax-m2.1` | `214.2 GB` | `2025-12-20T00:00:00Z` | `completion, tools, thinking` | [Open](https://ollama.com/library/minimax-m2.1) |
