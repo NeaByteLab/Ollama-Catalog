@@ -16,7 +16,7 @@ Fetch cloud models, inspect capabilities, publish clickable table automatically.
 | `kimi-k2.5` | `1041.7 GB` | `2026-01-26T00:00:00Z` | `vision, thinking, completion, tools` | [Open](https://ollama.com/library/kimi-k2.5) |
 | `glm-4.7` | `648.3 GB` | `2025-12-22T00:00:00Z` | `thinking, completion, tools` | [Open](https://ollama.com/library/glm-4.7) |
 | `minimax-m2.1` | `214.2 GB` | `2025-12-20T00:00:00Z` | `completion, tools, thinking` | [Open](https://ollama.com/library/minimax-m2.1) |
-| `gemini-3-flash-preview` | `-` | `2025-12-17T00:00:00Z` | `completion, tools, thinking` | [Open](https://ollama.com/library/gemini-3-flash-preview) |
+| `gemini-3-flash-preview` | `-` | `2025-12-17T00:00:00Z` | `completion, tools, thinking, vision` | [Open](https://ollama.com/library/gemini-3-flash-preview) |
 | `nemotron-3-nano:30b` | `30.4 GB` | `2025-12-15T00:00:00Z` | `completion, tools, thinking` | [Open](https://ollama.com/library/nemotron-3-nano:30b) |
 | `rnj-1:8b` | `14.9 GB` | `2025-12-09T00:00:00Z` | `completion, tools` | [Open](https://ollama.com/library/rnj-1:8b) |
 | `devstral-small-2:24b` | `48.1 GB` | `2025-12-09T00:00:00Z` | `completion, tools, vision` | [Open](https://ollama.com/library/devstral-small-2:24b) |
