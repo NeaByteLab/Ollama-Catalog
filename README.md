@@ -24,7 +24,7 @@ Fetch cloud models, inspect capabilities, publish clickable table automatically.
 | `mistral-large-3:675b` | `635.2 GB` | `2025-12-02T00:00:00Z` | `completion, tools, vision` | [Open](https://ollama.com/library/mistral-large-3:675b) |
 | `ministral-3:8b` | `9.7 GB` | `2025-12-02T00:00:00Z` | `completion, tools, vision` | [Open](https://ollama.com/library/ministral-3:8b) |
 | `ministral-3:3b` | `4.3 GB` | `2025-12-02T00:00:00Z` | `completion, tools, vision` | [Open](https://ollama.com/library/ministral-3:3b) |
-| `ministral-3:14b` | `14.6 GB` | `2025-12-02T00:00:00Z` | `(none)` | [Open](https://ollama.com/library/ministral-3:14b) |
+| `ministral-3:14b` | `14.6 GB` | `2025-12-02T00:00:00Z` | `completion, tools, vision` | [Open](https://ollama.com/library/ministral-3:14b) |
 | `deepseek-v3.2` | `641.3 GB` | `2025-12-02T00:00:00Z` | `completion, tools, thinking` | [Open](https://ollama.com/library/deepseek-v3.2) |
 | `deepseek-v3.1:671b` | `641.3 GB` | `2025-11-20T00:00:00Z` | `completion, tools, thinking` | [Open](https://ollama.com/library/deepseek-v3.1:671b) |
 | `cogito-2.1:671b` | `641.3 GB` | `2025-11-19T00:00:00Z` | `thinking, completion, tools` | [Open](https://ollama.com/library/cogito-2.1:671b) |
