@@ -8,7 +8,7 @@ Fetch cloud models, inspect capabilities, publish clickable table automatically.
 | --- | --- | --- | --- | --- |
 | `glm-5.1` | `1404.2 GB` | `2026-04-07T08:00:00-08:00` | `thinking, completion, tools` | [Open](https://ollama.com/library/glm-5.1) |
 | `gemma4:31b` | `58.3 GB` | `2026-04-02T09:00:00-08:00` | `completion, thinking, tools, vision` | [Open](https://ollama.com/library/gemma4:31b) |
-| `minimax-m2.7` | `447.8 GB` | `2026-03-18T00:00:00Z` | `(none)` | [Open](https://ollama.com/library/minimax-m2.7) |
+| `minimax-m2.7` | `447.8 GB` | `2026-03-18T00:00:00Z` | `completion, tools, thinking` | [Open](https://ollama.com/library/minimax-m2.7) |
 | `nemotron-3-super` | `214.7 GB` | `2026-03-11T00:00:00Z` | `completion, thinking, tools` | [Open](https://ollama.com/library/nemotron-3-super) |
 | `qwen3.5:397b` | `369.7 GB` | `2026-02-16T00:00:00Z` | `completion, thinking, tools, vision` | [Open](https://ollama.com/library/qwen3.5:397b) |
 | `minimax-m2.5` | `214.2 GB` | `2026-02-12T00:00:00Z` | `completion, tools, thinking` | [Open](https://ollama.com/library/minimax-m2.5) |
