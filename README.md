@@ -40,7 +40,7 @@ Fetch cloud models, inspect capabilities, publish clickable table automatically.
 | `kimi-k2:1t` | `1041.7 GB` | `2025-09-05T00:00:00Z` | `completion, tools` | [Open](https://ollama.com/library/kimi-k2:1t) |
 | `gpt-oss:20b` | `12.8 GB` | `2025-08-05T00:00:00Z` | `completion, tools, thinking` | [Open](https://ollama.com/library/gpt-oss:20b) |
 | `gpt-oss:120b` | `60.8 GB` | `2025-08-05T00:00:00Z` | `completion, tools, thinking` | [Open](https://ollama.com/library/gpt-oss:120b) |
-| `qwen3-coder:480b` | `475.4 GB` | `2025-07-22T00:00:00Z` | `(none)` | [Open](https://ollama.com/library/qwen3-coder:480b) |
+| `qwen3-coder:480b` | `475.4 GB` | `2025-07-22T00:00:00Z` | `completion, tools` | [Open](https://ollama.com/library/qwen3-coder:480b) |
 | `gemma3:4b` | `8.0 GB` | `2025-03-12T00:00:00Z` | `completion, vision` | [Open](https://ollama.com/library/gemma3:4b) |
 | `gemma3:27b` | `51.2 GB` | `2025-03-12T00:00:00Z` | `completion, vision` | [Open](https://ollama.com/library/gemma3:27b) |
 | `gemma3:12b` | `22.4 GB` | `2025-03-12T00:00:00Z` | `completion, vision` | [Open](https://ollama.com/library/gemma3:12b) |
