@@ -2,10 +2,11 @@
 
 Fetch cloud models, inspect capabilities, publish clickable table automatically.
 
-## Available Cloud Models (39)
+## Available Cloud Models (40)
 
 | model name | size | modified at | capability tags | official link |
 | --- | --- | --- | --- | --- |
+| `minimax-m3` | `-` | `2026-06-01T00:00:00Z` | `completion, tools, thinking, vision` | [Open](https://ollama.com/library/minimax-m3) |
 | `deepseek-v4-pro` | `1490.1 GB` | `2026-04-24T00:00:00Z` | `completion, tools, thinking` | [Open](https://ollama.com/library/deepseek-v4-pro) |
 | `deepseek-v4-flash` | `130.4 GB` | `2026-04-24T00:00:00Z` | `completion, tools, thinking` | [Open](https://ollama.com/library/deepseek-v4-flash) |
 | `glm-5.1` | `1404.2 GB` | `2026-04-07T08:00:00-08:00` | `thinking, completion, tools` | [Open](https://ollama.com/library/glm-5.1) |
