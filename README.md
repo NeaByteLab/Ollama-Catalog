@@ -2,10 +2,11 @@
 
 Fetch cloud models, inspect capabilities, publish clickable table automatically.
 
-## Available Cloud Models (40)
+## Available Cloud Models (41)
 
 | model name | size | modified at | capability tags | official link |
 | --- | --- | --- | --- | --- |
+| `nemotron-3-ultra` | `-` | `2026-06-04T00:00:00Z` | `completion, thinking, tools` | [Open](https://ollama.com/library/nemotron-3-ultra) |
 | `minimax-m3` | `-` | `2026-06-01T00:00:00Z` | `completion, tools, thinking, vision` | [Open](https://ollama.com/library/minimax-m3) |
 | `deepseek-v4-pro` | `1490.1 GB` | `2026-04-24T00:00:00Z` | `completion, tools, thinking` | [Open](https://ollama.com/library/deepseek-v4-pro) |
 | `deepseek-v4-flash` | `130.4 GB` | `2026-04-24T00:00:00Z` | `completion, tools, thinking` | [Open](https://ollama.com/library/deepseek-v4-flash) |
