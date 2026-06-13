@@ -2,10 +2,11 @@
 
 Fetch cloud models, inspect capabilities, publish clickable table automatically.
 
-## Available Cloud Models (41)
+## Available Cloud Models (42)
 
 | model name | size | modified at | capability tags | official link |
 | --- | --- | --- | --- | --- |
+| `kimi-k2.7-code` | `554.3 GB` | `2026-06-12T00:00:00Z` | `vision, thinking, completion, tools` | [Open](https://ollama.com/library/kimi-k2.7-code) |
 | `nemotron-3-ultra` | `-` | `2026-06-04T00:00:00Z` | `completion, thinking, tools` | [Open](https://ollama.com/library/nemotron-3-ultra) |
 | `minimax-m3` | `-` | `2026-06-01T00:00:00Z` | `completion, tools, thinking, vision` | [Open](https://ollama.com/library/minimax-m3) |
 | `deepseek-v4-pro` | `1490.1 GB` | `2026-04-24T00:00:00Z` | `completion, tools, thinking` | [Open](https://ollama.com/library/deepseek-v4-pro) |
