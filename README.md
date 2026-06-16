@@ -2,10 +2,11 @@
 
 Fetch cloud models, inspect capabilities, publish clickable table automatically.
 
-## Available Cloud Models (34)
+## Available Cloud Models (35)
 
 | model name | size | modified at | capability tags | official link |
 | --- | --- | --- | --- | --- |
+| `glm-5.2` | `-` | `2026-06-16T08:00:00-07:00` | `thinking, completion, tools` | [Open](https://ollama.com/library/glm-5.2) |
 | `kimi-k2.7-code` | `554.3 GB` | `2026-06-12T00:00:00Z` | `vision, thinking, completion, tools` | [Open](https://ollama.com/library/kimi-k2.7-code) |
 | `nemotron-3-ultra` | `-` | `2026-06-04T00:00:00Z` | `completion, thinking, tools` | [Open](https://ollama.com/library/nemotron-3-ultra) |
 | `minimax-m3` | `-` | `2026-06-01T00:00:00Z` | `completion, tools, thinking, vision` | [Open](https://ollama.com/library/minimax-m3) |
