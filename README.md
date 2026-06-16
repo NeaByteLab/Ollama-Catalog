@@ -2,7 +2,7 @@
 
 Fetch cloud models, inspect capabilities, publish clickable table automatically.
 
-## Available Cloud Models (42)
+## Available Cloud Models (34)
 
 | model name | size | modified at | capability tags | official link |
 | --- | --- | --- | --- | --- |
@@ -33,14 +33,6 @@ Fetch cloud models, inspect capabilities, publish clickable table automatically.
 | `ministral-3:14b` | `14.6 GB` | `2025-12-02T00:00:00Z` | `completion, tools, vision` | [Open](https://ollama.com/library/ministral-3:14b) |
 | `deepseek-v3.2` | `641.3 GB` | `2025-12-02T00:00:00Z` | `completion, tools, thinking` | [Open](https://ollama.com/library/deepseek-v3.2) |
 | `deepseek-v3.1:671b` | `641.3 GB` | `2025-11-20T00:00:00Z` | `completion, tools, thinking` | [Open](https://ollama.com/library/deepseek-v3.1:671b) |
-| `cogito-2.1:671b` | `641.3 GB` | `2025-11-19T00:00:00Z` | `thinking, completion, tools` | [Open](https://ollama.com/library/cogito-2.1:671b) |
-| `kimi-k2-thinking` | `1041.7 GB` | `2025-11-06T00:00:00Z` | `completion, tools, thinking` | [Open](https://ollama.com/library/kimi-k2-thinking) |
-| `minimax-m2` | `214.2 GB` | `2025-10-27T00:00:00Z` | `completion, tools` | [Open](https://ollama.com/library/minimax-m2) |
-| `glm-4.6` | `648.3 GB` | `2025-09-29T00:00:00Z` | `thinking, completion, tools` | [Open](https://ollama.com/library/glm-4.6) |
-| `qwen3-vl:235b-instruct` | `437.7 GB` | `2025-09-22T00:00:00Z` | `completion, tools, vision` | [Open](https://ollama.com/library/qwen3-vl:235b-instruct) |
-| `qwen3-vl:235b` | `437.7 GB` | `2025-09-22T00:00:00Z` | `completion, tools, thinking, vision` | [Open](https://ollama.com/library/qwen3-vl:235b) |
-| `qwen3-next:80b` | `76.2 GB` | `2025-09-10T00:00:00Z` | `completion, thinking, tools` | [Open](https://ollama.com/library/qwen3-next:80b) |
-| `kimi-k2:1t` | `1041.7 GB` | `2025-09-05T00:00:00Z` | `completion, tools` | [Open](https://ollama.com/library/kimi-k2:1t) |
 | `gpt-oss:20b` | `12.8 GB` | `2025-08-05T00:00:00Z` | `completion, tools, thinking` | [Open](https://ollama.com/library/gpt-oss:20b) |
 | `gpt-oss:120b` | `60.8 GB` | `2025-08-05T00:00:00Z` | `completion, tools, thinking` | [Open](https://ollama.com/library/gpt-oss:120b) |
 | `qwen3-coder:480b` | `475.4 GB` | `2025-07-22T00:00:00Z` | `completion, tools` | [Open](https://ollama.com/library/qwen3-coder:480b) |
