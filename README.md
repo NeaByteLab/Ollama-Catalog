@@ -2,7 +2,7 @@
 
 Fetch cloud models, inspect capabilities, publish clickable table automatically.
 
-## Available Cloud Models (35)
+## Available Cloud Models (34)
 
 | model name | size | modified at | capability tags | official link |
 | --- | --- | --- | --- | --- |
@@ -25,7 +25,6 @@ Fetch cloud models, inspect capabilities, publish clickable table automatically.
 | `minimax-m2.1` | `214.2 GB` | `2025-12-20T00:00:00Z` | `completion, tools, thinking` | [Open](https://ollama.com/library/minimax-m2.1) |
 | `gemini-3-flash-preview` | `-` | `2025-12-17T00:00:00Z` | `completion, tools, thinking, vision` | [Open](https://ollama.com/library/gemini-3-flash-preview) |
 | `nemotron-3-nano:30b` | `30.4 GB` | `2025-12-15T00:00:00Z` | `completion, tools, thinking` | [Open](https://ollama.com/library/nemotron-3-nano:30b) |
-| `rnj-1:8b` | `14.9 GB` | `2025-12-09T00:00:00Z` | `completion, tools` | [Open](https://ollama.com/library/rnj-1:8b) |
 | `devstral-small-2:24b` | `48.1 GB` | `2025-12-09T00:00:00Z` | `completion, tools, vision` | [Open](https://ollama.com/library/devstral-small-2:24b) |
 | `devstral-2:123b` | `119.4 GB` | `2025-12-08T00:00:00Z` | `completion, tools` | [Open](https://ollama.com/library/devstral-2:123b) |
 | `mistral-large-3:675b` | `635.2 GB` | `2025-12-02T00:00:00Z` | `completion, tools, vision` | [Open](https://ollama.com/library/mistral-large-3:675b) |
